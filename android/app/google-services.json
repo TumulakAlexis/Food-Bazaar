@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336190760076",
+    "project_id": "food-bazaar-89c4b",
+    "storage_bucket": "food-bazaar-89c4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336190760076:android:c18875757963bf7fdfc7a9",
+        "android_client_info": {
+          "package_name": "com.example.bite_bazaar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN7nL7Ngz6BsxO8ZsUTEKPNbGjEyur4K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
